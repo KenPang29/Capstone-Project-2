@@ -26,6 +26,7 @@ This repository contains a Python script for sentiment analysis and text similar
 3. Install the required libraries from the requirements.txt file using pip
 4. Navigate to the project directory and run the program `sentiment_analysis.py`.
 5. Follow the prompts to perform sentiment analysis and text similarity comparison on the provided dataset.
+6. Please make sure the amazon reviews CSV file is stored in the same folder as the sentiment_similarity_analysis.py file
 
 ### Contributors
 
